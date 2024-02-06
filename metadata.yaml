@@ -15,5 +15,8 @@
 homepage: "https://stey.ai"
 documentation: " https://help.stey.ai/en/articles/8887791-install-with-google-tag-manager"
 versions:
+  - sha: aabdbc87f075946ef76ac52c37bbfef28fa21aee
+    changeNotes: add template.tpl
+
   - sha: e5241e9b31f40423632c137d0c2c538fea9d89a5
     changeNotes: Initial version.
