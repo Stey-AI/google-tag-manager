@@ -15,6 +15,9 @@
 homepage: "https://stey.ai"
 documentation: " https://help.stey.ai/en/articles/8887791-install-with-google-tag-manager"
 versions:
+  - sha: af9488392babf91c2f6915685206fdd735721411
+    changeNotes: v1.0
+
   - sha: 3b4980ba2bf96e51220f822ece724dd853cd075b
     changeNotes: Update LICENSE
 
